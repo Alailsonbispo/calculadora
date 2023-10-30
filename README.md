@@ -1,2 +1,3 @@
 # calculadora
-Primeiro projeto feito. Muito orgulhoso, imagine!
+
+texto alterado no repo local
